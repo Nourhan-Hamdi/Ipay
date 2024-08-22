@@ -26,18 +26,28 @@ you need c++ compiler and visual studio to run the code.
 
 
 - overloading
+
+  
 ![1](https://github.com/user-attachments/assets/066dcc14-dd39-4eaa-afc3-e0a670f89af6)
 
 
 ![2](https://github.com/user-attachments/assets/a5c98755-7414-4f17-8da6-b794a183c566)
 
 - overriding
+
+  
 ![0](https://github.com/user-attachments/assets/b2281578-fcdf-4f90-a0e1-97a4bf661147)
 
+
 - Interface
+
+
 ![0](https://github.com/user-attachments/assets/c7390de6-2cdb-4420-9066-6f562d06580a)
 
+
 - Interface implementation classes
+
+  
 ![1](https://github.com/user-attachments/assets/c7bc7953-9ce8-432f-891d-e10289a49738)
 
 
